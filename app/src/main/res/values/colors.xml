@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#0000FF</color>
+    <color name="primaryLightColor">#808080</color>
+    <color name="primaryDarkColor">#0000CD</color>
+    <color name="primaryTextColor">#000000</color>
+
+
+    <color name="secondaryColor">#00008B</color>
+    <color name="secondaryLightColor">#696969</color>
+    <color name="secondaryDarkColor">#000080</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+    <color name="chat_bubble_bg">#fce4ec</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_gray_300">#E0E0E0</color>
+    <color name="material_gray_500">#9e9e9e</color>
+
+    <color name="material_red_a200">#778899</color>
+</resources>

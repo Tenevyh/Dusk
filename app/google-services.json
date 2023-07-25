@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842697841373",
+    "firebase_url": "https://dusk-d228d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dusk-d228d",
+    "storage_bucket": "dusk-d228d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842697841373:android:4a023d3e6d8f1616a1d934",
+        "android_client_info": {
+          "package_name": "com.tenevyh.android.dusk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842697841373-g1v4s1o0ph0jidtotmakjsst0sa5b2ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tenevyh.android.dusk",
+            "certificate_hash": "24822b6d4495154a81d0c26b79f140ef95b6d9bf"
+          }
+        },
+        {
+          "client_id": "842697841373-78uo3ccnvia9a7mm9fcaloskui9f26gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABg3NXEUW42KS43y0QTE1qFH1IbR6L79k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842697841373-78uo3ccnvia9a7mm9fcaloskui9f26gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
